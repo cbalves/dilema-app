@@ -161,6 +161,8 @@ gulp.task('install', ['git-check'], function() {
         });
 });
 
+gulp.task('serve:before', ['watch'], function() {});
+
 gulp.task('git-check', function(done) {
     if (!sh.which('git')) {
         console.log(
