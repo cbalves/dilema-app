@@ -210,18 +210,3 @@ Command/Shortcut        | Action
 * **[Ionic CLI](https://github.com/driftyco/ionic-cli)**
 * **[Ionic Framework Examples](https://gist.github.com/jdnichollsc/53bfd200f04fd51c87d5)**
 * **[Ionic Services](http://docs.ionic.io/)**
-
-![Your code is mine!](https://github.com/jdnichollsc/Ionic-Starter-Template/blob/gh-pages/images/ofuscate.jpg?raw=true)
-
-#Personal comments
-
-* **Ionic, seriously?** The cache is the best... but, How is possible to know if a specific view is cached? (From a directive)
-
-* **Microsoft, seriously?** Help to improve existing cordova plugins instead of create new plugins only for Windows platform!
-
-* **Apple, seriously?** Thanks for nothing! I need a MAC or the help of a friend to build for iOS... Are we playing Who Wants to be a Millionaire?
-
-# Happy coding
-Made with <3
-
-<img width="150px" src="http://phaser.azurewebsites.net/assets/nicholls.png" align="right">
