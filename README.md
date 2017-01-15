@@ -1,30 +1,3 @@
-#**The Best Ionic v1.x starter template**
-
-![Ionic Framework + Gulp](https://github.com/jdnichollsc/Ionic-Starter-Template/blob/gh-pages/images/ionic_40.png?raw=true)
-
-**Reinventing the wheel, again!** *Sorry Ionic Team... but there are many noobs learning in Youtube!*
-
-> Are you a noob? Use this template.
-
-> Are you a master? Shut up and use this template! Talk is cheap, show me the code (Pull Request).
-
-<div style="text-align:center"><img src ="https://github.com/jdnichollsc/Ionic-Starter-Template/blob/gh-pages/images/reinventing.the.wheel.jpg?raw=true" /></div>
-
-#Introduction
-
-You need to obfuscate your code and reduce the size of your mobile applications. With this project you can work with Gulp in the best way, allowing improve your development workflow. This project seeks to improve the following tasks:
-
-- Design your application with a maintainable code using **Sass** and writing less code using **Autoprefixer**. Concatenate and Minify styles in a stylesheet.
-- Concatenate javascript files with the structure that you want with Anglular.
-- Compress images to reduce the size of your application.
-- Compress templates, respecting your structure
-- Clean unnecessary files downloaded with Bower
-- Use CSS animations with **Animate.css**
-- Use **SQLite** with a service pattern. **(Pre-filled databases)**
-
-#Projects using this template
-- **[IonPhaser](http://market.ionic.io/plugins/ionphaser)**
-
 #Instructions
 
 1. Download this template.
